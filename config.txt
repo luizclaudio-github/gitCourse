@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<configuration>
+  <appSettings>
+		
+		<add key="ordemPor" value="teste1" />
+		<add key="ordemDir" value="teste2" />
+		<add key="numPag" value="25" />
+  </appSettings>
+</configuration>
